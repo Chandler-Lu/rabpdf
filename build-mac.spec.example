@@ -5,7 +5,7 @@ a = Analysis(
     ['main.py'],
     pathex=[],
     binaries=[],
-    datas=[('SimSun.ttf', '.'), ('icon/favicon-mac.icns', '.')],
+    datas=[('SourceHanSerif.ttf', '.'), ('icon/favicon-mac.icns', '.')],
     hiddenimports=[],
     hookspath=[],
     hooksconfig={},
