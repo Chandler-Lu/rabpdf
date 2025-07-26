@@ -1,0 +1,9 @@
+# PDF 处理库
+reportlab
+PyPDF2
+
+# 拖放功能库
+tkinterdnd2-universal
+
+# 用于通过 COM 接口与 Word/PowerPoint 交互（限 Windows）
+comtypes
